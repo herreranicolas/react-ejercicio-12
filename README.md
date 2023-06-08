@@ -1,4 +1,4 @@
-# Trabajo Práctico - React - Ejercicio Nro. 11 - Web de Noticias V.2🚀
+# Trabajo Práctico - React - Ejercicio Nro. 12 - Web de Noticias V.2🚀
 
 En este trabajo práctico aplicamos prácticas con componentes, ciclo de vida del componente, eventos, etc..
 
